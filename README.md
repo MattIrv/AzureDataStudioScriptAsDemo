@@ -1,0 +1,1 @@
+This repository contains the extension created by following the Azure Data Studio ["Script As Wizard" Extension Tutorial](https://github.com/Microsoft/azuredatastudio/wiki/Microsoft-Ignite-lab#creating-a-script-as-wizard-extension-using-typescript)
